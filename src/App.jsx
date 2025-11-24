@@ -4,7 +4,6 @@ const App = () => {
   let myName = "Firas";
   let aaa;
   const getAbc = (abc) => {
-    // console.log(abc);
     aaa = abc;
     console.log(aaa);
   };
